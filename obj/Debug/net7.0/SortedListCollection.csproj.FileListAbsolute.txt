@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/bin/Debug/net7.0/SortedListCollection
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/bin/Debug/net7.0/SortedListCollection.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/bin/Debug/net7.0/SortedListCollection.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/bin/Debug/net7.0/SortedListCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/bin/Debug/net7.0/SortedListCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/SortedListCollection.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/SortedListCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/SortedListCollection.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/SortedListCollection.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/SortedListCollection.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/SortedListCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/refint/SortedListCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/SortedListCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/SortedListCollection.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/SortedListCollection/obj/Debug/net7.0/ref/SortedListCollection.dll
